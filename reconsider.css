@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f9;
+  text-align: center;
+}
+
+.center-container {
+  padding: 20px;
+  background: #ffffff;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1.display-text {
+  font-family: 'Georgia', serif; /* Change to desired font */
+  font-size: 20px; /* Adjust font size */
+  color: #333; /* Change text color */
+  line-height: 1.5;
+  text-align: justify; /* Justify text alignment */
+}
+
+h5 {
+  font-family: 'Courier New', monospace; /* Change to desired font */
+  font-size: 56px; /* Adjust font size */
+  color: #666; /* Change text color */
+  margin-top: 20px;
+}
